@@ -1,9 +1,7 @@
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { MovieCard } from "./MovieCard";
-import { SideBar } from "./SideBar";
 import { api } from '.././services/api';
 import '../styles/content.scss';
-import { Sidebar } from "react-feather";
 
 interface MovieProps {
   Title: string;
@@ -16,7 +14,7 @@ interface MovieProps {
 }
 
 export function Content(props) {
-  // Complete aqui
+  // Complet here
   
   const [movies, setMovies] = useState<MovieProps[]>([]);
 

@@ -11,8 +11,6 @@ interface GenreResponseProps {
   title: string;
 }
 
-
-
 export function SideBar() {
   // Complete aqui
   const [genres, setGenres] = useState<GenreResponseProps[]>([]);
