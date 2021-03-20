@@ -1,4 +1,4 @@
-<h1 align="center"> React Challenge Completed</h1>
+<h1 align="center"> React Challenge 02 Completed</h1>
 
 <p> 🖥️ One challenge launched by <a href="https://rocketseat.com.br/" target:"blank">Rocketseat</a>, which we must create one app, 
 where your main objective is to refactor a page for listing the films according to genre.
